@@ -1,2 +1,2 @@
 # test-kate
-delete me
+Sample repository for something
